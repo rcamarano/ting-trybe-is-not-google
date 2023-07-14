@@ -22,3 +22,4 @@ class Queue(AbstractQueue):
         """Aqui irá sua implementação"""
         if index >= len(self.list):
             raise IndexError("Index inválido ou Inexistente")
+        return self.list[index]
