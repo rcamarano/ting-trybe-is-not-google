@@ -21,23 +21,23 @@ def process(path_file, instance):
 
 def remove(instance):
     """Aqui irá sua implementação"""
-    if len(instance) == 0:
-        sys.stdout.write("Não há elementos\n")
-        return None
+    # if len(instance) == 0:
+    #     sys.stdout.write("Não há elementos\n")
+    #     return None
 
-    file = instance.dequeue()
-    sys.stdout.write(
-        f"Arquivo {file['nome_do_arquivo']} removido com sucesso\n"
-    )
-    return file
+    # file = instance.dequeue()
+    # sys.stdout.write(
+    #     f"Arquivo {file['nome_do_arquivo']} removido com sucesso\n"
+    # )
+    # return file
 
 
 def file_metadata(instance, position):
     """Aqui irá sua implementação"""
-    if position < 0 or position >= len(instance):
-        sys.stderr.write("Posição inválida\n")
-        return None
+    # if position < 0 or position >= len(instance):
+    #     sys.stderr.write("Posição inválida\n")
+    #     return None
 
-    file = instance.search(position)
-    sys.stdout.write(f"{file}\n")
-    return
+    # file = instance.search(position)
+    # sys.stdout.write(f"{file}\n")
+    # return
