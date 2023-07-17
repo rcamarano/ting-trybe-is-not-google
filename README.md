@@ -1,6 +1,6 @@
 # 🚀🧠 Projeto TING 🧠🚀
 
->>> "Nesse projeto o desafio foi implementar um programa que simule um algoritmo de indexação de documentos similar ao do Google. Seu programa deverá ser capaz de identificar ocorrências de termos em arquivos TXT.
+>>> "Nesse projeto o desafio foi implementar um programa que simule um algoritmo de indexação de documentos similar ao do Google. O programa deverá ser capaz de identificar ocorrências de termos em arquivos TXT.
 🚵 Habilidades exercitadas:
 Lógica;
 Manipular Pilhas;
@@ -26,7 +26,7 @@ Obrigado por sua visita.!
 
 ## Descrição
 
-"Nesse projeto o desafio foi implementar um programa que simule um algoritmo de indexação de documentos similar ao do Google. Seu programa deverá ser capaz de identificar ocorrências de termos em arquivos TXT.
+"Nesse projeto o desafio foi implementar um programa que simule um algoritmo de indexação de documentos similar ao do Google. O programa deverá ser capaz de identificar ocorrências de termos em arquivos TXT.
 🚵 Habilidades exercitadas:
 Lógica;
 Manipular Pilhas;
